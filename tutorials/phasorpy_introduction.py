@@ -499,6 +499,11 @@ plot_image(
 )
 
 # %%
+# Alternatively, use k-means clustering to assign every phasor coordinate to
+# one of the clusters. The :ref:`sphx_glr_tutorials_api_phasorpy_cluster.py`
+# tutorial compares both methods.
+
+# %%
 # Appendix
 # --------
 #
